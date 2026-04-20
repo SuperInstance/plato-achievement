@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/plato_achievement/__init__.py
+src/plato_achievement/achievement.py
+src/plato_achievement.egg-info/PKG-INFO
+src/plato_achievement.egg-info/SOURCES.txt
+src/plato_achievement.egg-info/dependency_links.txt
+src/plato_achievement.egg-info/top_level.txt
